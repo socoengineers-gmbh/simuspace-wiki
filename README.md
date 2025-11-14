@@ -5,7 +5,7 @@
 
 **Unify Engineering & Operations. Drive Decisions with AI.**
 
-SIMUSPACE is a cloud-native, AI-first platform developed by SOCO Engineers that transforms how engineering organizations design, test, and operate systems. From early simulation through live telemetry, SIMUSPACE delivers a unified, secure environment for connected engineering workflows.
+Simuspace is a cloud-native, AI-first platform developed by SOCO Engineers that transforms how engineering organizations design, test, and operate systems. From early simulation through live telemetry, Simuspace delivers a unified, secure environment for connected engineering workflows.
 
 Built for **scalability, sovereignty, and trust**, SIMUSPACE empowers teams to accelerate decisions, maintain full control over data, and streamline operations.
 
@@ -26,7 +26,9 @@ Built for **scalability, sovereignty, and trust**, SIMUSPACE empowers teams to a
 Trusted by organizations in automotive, aerospace, defense, energy, and industrial manufacturing, SIMUSPACE helps enterprises cut costs, speed development, and elevate decision quality.
 
 **Website**
+
 [https://www.simuspace.ai/](https://www.simuspace.ai/)
 
 **Industry**
+
 _Software Development_, _Industrial Engineering_, or _Information Technology & Services_
