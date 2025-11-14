@@ -27,7 +27,7 @@ Trusted by organizations in automotive, aerospace, defense, energy, and industri
 
 **Website**
 
-[https://www.simuspace.ai](https://simuspace.ai)
+[https://simuspace.ai](https://simuspace.ai)
 
 **Industry**
 
